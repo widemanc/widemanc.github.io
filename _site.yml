@@ -1,0 +1,11 @@
+name: "Cassidy E. Wideman"
+navbar:
+  title: "Cassidy E. Wideman"
+  left:
+
+
+
+output:
+  html_document:
+    theme:cosmo
+output_dir: "."
